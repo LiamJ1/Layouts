@@ -27,3 +27,42 @@ padding:0;
     justify-content: space-around;
     align-items: center;
 }
+
+.example2 {
+
+}
+    .mainbox {
+        background-color: yellow;
+        flex: 3;
+        align-items: stretch;
+    }
+    .aside1 {
+        background-color: lightblue;
+        flex: 1;
+    }
+    .aside2 {
+        background-color: pink;
+        flex: 1;
+    }
+
+.example3 .child {
+    flex: 1;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
